@@ -8,7 +8,7 @@
 
 ## How To Implement:
 
-In the html <head> of your document, add the following element:<br>
+In the `<head>` of your document, add the following element:<br>
   `<link rel="stylesheet" type"text/css" href="css/keyboard.css">`
   
 <br>At the bottom of your ```<body>``` element, add the following lines:<br>
