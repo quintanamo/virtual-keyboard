@@ -10,9 +10,11 @@
 
 In the html <head> of your document, add the following element:<br>
   `<link rel="stylesheet" type"text/css" href="css/keyboard.css">`
+  
 <br>At the bottom of your ```<body>``` element, add the following lines:<br>
   `<script type="text/javascript" src="scripts/keyboard-initializer">`
   <br>`<script type="text/javascript" src="scripts/keyboard-handler">`
+  
 <br>Wherever you would like to insert a keyboard, include the following line in your markup:<br>
   `<div class="virtual-keyboard"></div>`
   
