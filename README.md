@@ -2,7 +2,7 @@
 
 ## Features
 
-+ Automatically detects input and textarea elements within the user's project and configures them to function with the virtual keyboard
++ Automatically detects input and textarea elements within the user's project and configures them to function with the virtual keyboard (inputs' types must be set to either text or password)
 + Automatically injects the keyboard's markup with one line of HTML
 + Full QWERTY keyboard with support for shift, caps lock, enter (return), and backspace
 
