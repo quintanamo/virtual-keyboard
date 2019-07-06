@@ -13,7 +13,6 @@ At the bottom of your <body> element, add the following lines:
     <script type="text/javascript" src="scripts/keyboard-initializer">
     <script type="text/javascript" src="scripts/keyboard-handler">
     ```
-        
 Wherever you would like to insert a keyboard, include the following line in your markup:
     ```html
     <div class="virtual-keyboard"></div>
