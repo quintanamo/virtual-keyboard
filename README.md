@@ -14,6 +14,7 @@ In the `<head>` of your document, add the following element:<br>
 <br>At the bottom of your ```<body>``` element, add the following lines:<br>
   `<script type="text/javascript" src="scripts/keyboard-initializer.js"></script>`
   <br>`<script type="text/javascript" src="scripts/keyboard-handler.js"></script>`
+  <br>*Please note that you may have to change the file paths within the script tags' src attributes.
   
 <br>Wherever you would like to insert a keyboard, include the following line in your markup:<br>
   `<div class="virtual-keyboard"></div>`
