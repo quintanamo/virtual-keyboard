@@ -11,7 +11,7 @@
 First, add the scripts and css folders contained within this repository to your project.
 
 <br>In the `<head>` of your document, add the following element:<br>
-  `<link rel="stylesheet" type"text/css" href="css/keyboard.css">`
+  `<link rel="stylesheet" type="text/css" href="css/keyboard.css">`
   
 <br>At the bottom of your ```<body>``` element, add the following lines:<br>
   `<script type="text/javascript" src="scripts/keyboard-initializer.js"></script>`
